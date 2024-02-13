@@ -1,0 +1,6 @@
+Distrustful of the envoys, you decide to investigate their motives further. Late one night, while your companions are asleep, you sneak into their camp to find evidence. You discover secret documents revealing their true intentions: they plan to use the power of the Shadow Orb to dominate neighboring realms. Now faced with a moral dilemma, you must make a choice:
+(Expose the envoys to the Ruling Council:Join Forces with the Envoys:Quit)
+---
+a:expose_the_envoy.txt
+b:join_forces.txt
+q:quit.txt

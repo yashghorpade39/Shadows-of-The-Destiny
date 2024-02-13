@@ -1,0 +1,6 @@
+Conflicted, you choose to trust the authorities. However, the city guard is infiltrated by agents loyal to the sorcerer. Now, you find yourself entangled in a web of deception, and your only hope is to join forces with the resistance to expose the sorcerer's influence.
+(Formulate a plan with the resistance:Seek sanctuary with the resistance:Quit)
+---
+a:formulate_a_plan.txt
+b:seek_sanctuary.txt
+q:quit.txt

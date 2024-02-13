@@ -1,0 +1,9 @@
+Welcome to "Shadows of the Destiny", where every decision you make shapes the outcome of a thrilling mystery.
+<UserName:-Enter your name >
+You awaken to the mysterious sound of a bang at the door in the dead of night. 
+Creeping to the window, you spot five hooded strangers, one of whom gestures for you to come down. The choice is yours:
+(Escape through the window out back:Open the door:Quit)
+---
+a:escape_through_the_window_out_back_message.txt
+b:open_the_door.txt
+q:quit.txt

@@ -1,0 +1,6 @@
+The envoys suggest a shortcut through an ancient forest, rumored to be enchanted. As you navigate the twisting paths, you encounter mystical creatures and illusions. Do you:
+(Follow the envoys' lead and press on:Take a different route to avoid potential traps:Quit)
+---
+a:follow_the_envoys.txt
+b:take_a_different_route.txt
+q:quit.txt

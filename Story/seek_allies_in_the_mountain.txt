@@ -1,0 +1,6 @@
+Approaching the sorcerer's lair, you come across a hidden stronghold in the mountains. The envoys propose recruiting allies among the skilled warriors residing there. Do you:
+(Persuade envoys to seek mountain warriors' help:Stay on the original path, avoiding delays:Quit)
+---
+a:convince_the_envoys.txt
+b:continue_original_path.txt
+q:quit.txt

@@ -1,0 +1,6 @@
+As you observe the strangers, you discover that they are actually undercover agents from a neighboring kingdom, attempting to thwart the sorcerer's plans. Now, you must decide whether to reveal yourself and join their cause or maintain your anonymity and navigate the dangers alone.
+(Stay in the shadows:Intercept their path:Quit)
+---
+a:stay_in_shadows.txt
+b:intercept_their_path.txt
+q:quit.txt

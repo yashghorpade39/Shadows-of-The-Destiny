@@ -1,0 +1,6 @@
+You agree to help the envoys, and together, you embark on a perilous journey toward the sorcerer's lair. The path is fraught with dangers, from enchanted forests to treacherous mountains. Along the way, you have several choices:
+(Traverse the enchanted forest:Seek Allies in the Mountain Stronghold:Quit)
+---
+a:traverse_the_enchanted.txt
+b:seek_allies_in_the_mountain.txt
+q:quit.txt

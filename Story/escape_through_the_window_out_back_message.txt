@@ -1,0 +1,6 @@
+You manage to slip away unnoticed and find yourself in the darkened alleys of the city. As you navigate the labyrinthine streets, you overhear whispers of a hidden power struggle within the kingdom. Now, you must decide:
+(Head to the city guard to report the strangers:Spy covertly, gather vital intel.:Quit)
+---
+a:head_to_city.txt
+b:find_a_hidden.txt
+q:quit.txt

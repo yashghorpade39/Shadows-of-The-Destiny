@@ -1,0 +1,6 @@
+As you near the sorcerer's lair, tensions rise, and you need to now face the sorcerer. The final confrontation approaches, and you must make crucial decisions:
+(Confront the sorcerer head-on:Negotiate with the sorcerer:Quit)
+---
+a:confront_the_sorcerer.txt
+b:negotiate_with_sorcerer.txt
+q:quit.txt

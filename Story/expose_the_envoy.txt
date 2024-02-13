@@ -1,0 +1,6 @@
+You decide to prioritize the safety of the kingdom over personal gain. And you Sneak away to deliver the evidence to the ruling council discreetly. You present the evidence you collected to the Key Council Member. The kingdom is now in a state of turmoil. The ruling council grapples with the revelations, and tensions rise among the citizens. Seeking a peaceful resolution, you decide to negotiate with the envoys. Do you:
+(Persuade them to quit in exchange for mercy:Propose a peaceful exit for the envoys:Quit)
+---
+a:convince_to_abandon.txt
+b:sorcerers_lair.txt
+q:quit.txt

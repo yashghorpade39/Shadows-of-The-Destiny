@@ -1,0 +1,6 @@
+As you open the door to the strangers, they reveal themselves as emissaries from the neighboring realm of Eldoria. They explain that the stolen artifact, known as the Shadow Orb, possesses the ability to control shadows and manipulate reality. The sorcerer, a rogue wizard exiled from Eldoria, plans to unleash chaos upon the kingdom.
+(Agree to help them:Question their motives and demand more details:Quit)
+---
+a:agree_to_help_them.txt
+b:question_their_motives.txt
+q:quit.txt

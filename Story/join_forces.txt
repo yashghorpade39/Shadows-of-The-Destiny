@@ -1,0 +1,2 @@
+Feeling the allure of power, you consider aligning with the envoys to fulfill your own ambitions.
+{agree_to_help_them.txt}

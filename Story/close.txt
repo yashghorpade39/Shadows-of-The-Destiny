@@ -1,0 +1,10 @@
+HURRAH!!!
+MISSION COMPLETE. 
+*starry_eyes*
+Thank you for playing.
+Your adventure may have reached its conclusion, but the kingdom's story continues to unfold. Stay vigilant, for new challenges and mysteries await. The realm eagerly anticipates your return, brave adventurer. Until then, let the echoes of your choices linger, and may your next journey be as captivating as the last.
+Would you like to quit or restart the game?
+(Quit:Restart)
+---
+q:complete.txt
+r:introduction.txt
